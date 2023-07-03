@@ -1,0 +1,8 @@
+C:\Users\ASUS\Desktop\mySistemApp\WinFormsApp1\obj\Debug\net6.0-windows\PsDock.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\mySistemApp\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\ASUS\Desktop\mySistemApp\WinFormsApp1\obj\Debug\net6.0-windows\PsDock.Properties.Resources.resources
+C:\Users\ASUS\Desktop\mySistemApp\WinFormsApp1\obj\Debug\net6.0-windows\PsDock.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\mySistemApp\WinFormsApp1\obj\Debug\net6.0-windows\PsDock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\mySistemApp\WinFormsApp1\obj\Debug\net6.0-windows\PsDock.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\mySistemApp\WinFormsApp1\obj\Debug\net6.0-windows\PsDock.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\mySistemApp\WinFormsApp1\obj\Debug\net6.0-windows\PsDock.csproj.CoreCompileInputs.cache

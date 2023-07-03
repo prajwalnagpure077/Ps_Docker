@@ -1,0 +1,66 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PsDocker/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.3",
+          "NonInvasiveKeyboardHookLibrary": "2.2.0",
+          "NonInvasiveKeyboardHookLibrary.Core": "2.1.0"
+        },
+        "runtime": {
+          "PsDocker.dll": {}
+        }
+      },
+      "Newtonsoft.Json/13.0.3": {
+        "runtime": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.3.27908"
+          }
+        }
+      },
+      "NonInvasiveKeyboardHookLibrary/2.2.0": {},
+      "NonInvasiveKeyboardHookLibrary.Core/2.1.0": {
+        "runtime": {
+          "lib/netcoreapp3.1/NonInvasiveKeyboardHookLibrary.Core.dll": {
+            "assemblyVersion": "2.1.0.0",
+            "fileVersion": "2.1.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PsDocker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/13.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ==",
+      "path": "newtonsoft.json/13.0.3",
+      "hashPath": "newtonsoft.json.13.0.3.nupkg.sha512"
+    },
+    "NonInvasiveKeyboardHookLibrary/2.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-85w2U3KAK7cIVWyrlT5yDoS5U578sHrMONfa4U9Nk7SZ/p4CvY5rJartCmvqEPjbn3m946IIHU2lscUD+bco2w==",
+      "path": "noninvasivekeyboardhooklibrary/2.2.0",
+      "hashPath": "noninvasivekeyboardhooklibrary.2.2.0.nupkg.sha512"
+    },
+    "NonInvasiveKeyboardHookLibrary.Core/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RI9Cb8/38WO0i8eg03jEMO0rX47+Ol+MyS8dBRhkaGvUavfW2DrX1TFTfHyHEL2ZrraG00J2TwlKjOsrbTOhKw==",
+      "path": "noninvasivekeyboardhooklibrary.core/2.1.0",
+      "hashPath": "noninvasivekeyboardhooklibrary.core.2.1.0.nupkg.sha512"
+    }
+  }
+}
